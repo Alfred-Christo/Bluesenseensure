@@ -3,7 +3,7 @@ import google.generativeai as genai
 import google.ai.generativelanguage as glm
 from PIL import Image
 
-API_KEY = 'AIzaSyAmNZj1Igm_qhu_k4vdStcNVPV_YYtWiKM'
+API_KEY = '//enter API key'
 genai.configure(api_key=API_KEY)
 
 #setting the page configuration
